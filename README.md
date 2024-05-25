@@ -30,9 +30,9 @@ Este proyecto es una aplicación web de gestión de productos desarrollada con F
 
 ### 1. Clonar el Repositorio
 
-- git clone https://github.com/tu-repositorio.git
+- git clone https://github.com/CamiloPE12/MAJUCA_STORE_CALI.git
 
-- cd nombre-del-repositorio
+- cd {ruta donde se encuentra el repositorio}
 
 ### 2. Crear y Activar un Entorno Virtual
 
