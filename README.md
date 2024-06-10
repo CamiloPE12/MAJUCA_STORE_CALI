@@ -114,4 +114,6 @@ Al iniciar la aplicación, serás llevado al menú principal, donde podrás gest
 
 ## Consultas y Reportes
 
-El sistema permite consultar la información de productos, proveedores, bodegas y categorías, incluyendo sus detalles y las relaciones entre ellos. Además, se puede calcular el valor total del stock, sumando el precio de cada producto por la cantidad disponible.
+El sistema permite consultar la información de productos, proveedores, bodegas y categorías, incluyendo sus detalles y las relaciones entre ellos. Además, se puede calcular el valor total del stock, sumando el precio de cada producto por la cantidad disponible. 
+
+¡Gracias, esperamos que disfruten la página!
