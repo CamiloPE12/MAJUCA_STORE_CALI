@@ -1,6 +1,6 @@
 # Gestión de Productos
 
-Este proyecto es una aplicación web de gestión de productos desarrollada con Flask. Permite a los usuarios crear, leer, actualizar y eliminar (CRUD) productos en una base de datos MySQL, así como gestionar proveedores, bodegas y categorías asociadas a los productos.
+Este proyecto es una aplicación web de gestión de productos desarrollada con Flask. Permite a los usuarios realizar operaciones CRUD (crear, leer, actualizar y eliminar) en productos almacenados en una base de datos MySQL. Además, ofrece funcionalidades para gestionar proveedores, bodegas y categorías asociadas a los productos, proporcionando una solución integral para la administración eficiente del inventario.
 
 ## Tecnologías Empleadas
 
